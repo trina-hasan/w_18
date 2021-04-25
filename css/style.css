@@ -1,0 +1,6 @@
+.box{
+	min-height: 100px;
+	background-color: orange;
+	border:1px solid black;
+	margin-bottom: 5px;
+}
